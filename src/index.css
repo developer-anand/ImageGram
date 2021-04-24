@@ -8,11 +8,11 @@
 
 /* base styles & title */
 body {
+  background-color: #cfe0de;
   font-family: "Noto Serif";
   color: var(--secondary);
 }
 .App {
-  background-color: #efb6b2;
   max-width: 960px;
   margin: 0 auto;
 }
@@ -58,7 +58,6 @@ label:hover {
   color: white;
 }
 span {
-  background-color: rgb(254, 255, 240);
   size: 2rem;
 }
 .output {
